@@ -5,3 +5,5 @@ To implement the interface of randomized queue I used vector:
 * `enqueue(x)` simply pushes element `x` to the end of our vector - `ourVector.push_back(x)`
 * `sample()` returns random element from our vector
 * `dequeue()` gives an element at random position, swaps it with the last element at our vector and removes the last element from our vector
+
+To implement the interface of deque I used list. 
